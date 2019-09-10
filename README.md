@@ -2,7 +2,7 @@
 
 # What is this ?
 
-This is a Fork of Pocketmine-MP that is ment to work with 32bit devices
+This is a Fork of Pocketmine-MP that allows you to to install Pocketmine-MP on a 32bit device
 
 # Installation
 
